@@ -9,3 +9,6 @@ this is venudev
 this i again
 
 i am venu
+
+this is one i divmod
+this is also
